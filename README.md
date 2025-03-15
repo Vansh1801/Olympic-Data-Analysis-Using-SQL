@@ -1,4 +1,5 @@
-Goal: To analyze Olympic data using SQL to extract insights on medals, team performance, and athlete achievements.
-Extracted medal counts, country-wise rankings, and event-wise performance trends using advanced SQL queries.
-Identified top-performing athletes, sports, and teams, showcasing key patterns in the dataset.
-Exported gender-wise yearly medal data for visualization and further analysis in Excel.
+Goal:Performed data analysis on an athlete database using SQL to extract insights on medal distribution.
+Queried and analyzed athlete records to count and categorize medals.
+Used GROUP BY and aggregation functions to summarize medal data.
+Retrieved and filtered athlete performance data using SELECT queries.
+Applied database operations and optimizations to efficiently handle large datasets.
